@@ -1,0 +1,18 @@
+var json_PointofInterest_2 = {
+"type": "FeatureCollection",
+"name": "PointofInterest_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Museum Seni Rupa dan Keramik - Kota Tua Jakarta", "desc": "Museum of Fine Art and Ceramics, Jl. Pos Kota No.2, RT.9\/RW.7, Pinangsia, Taman Sari, West Jakarta City, Jakarta 11110, Indonesia", "X": null, "Y": null, "Keterangan": "Point of Interest" }, "geometry": { "type": "Point", "coordinates": [ 106.813847, -6.134759 ] } },
+{ "type": "Feature", "properties": { "name": "Acaraki Jamu", "desc": "Acaraki Jamu, Acaraki Jamu, Gedung Kerta Niaga 3, Kota Tua, Jl. Pintu Besar Utara No.11, RT.4\/RW.6 RT.4, RT.4\/RW.6, Pinangsia, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110, Indonesia", "X": null, "Y": null, "Keterangan": "Point of Interest" }, "geometry": { "type": "Point", "coordinates": [ 106.8129607, -6.1359857 ] } },
+{ "type": "Feature", "properties": { "name": "Museum Wayang", "desc": "Wayang Museum, Jalan Pintu Besar Utara No.27 Pinangsia, RT.3\/RW.6, Kota Tua, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110, Indonesia", "X": null, "Y": null, "Keterangan": "Point of Interest" }, "geometry": { "type": "Point", "coordinates": [ 106.8124452, -6.1349072 ] } },
+{ "type": "Feature", "properties": { "name": "Gado-Gado Direksi", "desc": "HOTEL MUTIARA PINTU BESAR, Jl. Pintu Besar Selatan No.71-71A, RT.7\/RW.6, Pinangsia, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11210, Indonesia", "X": null, "Y": null, "Keterangan": "Point of Interest" }, "geometry": { "type": "Point", "coordinates": [ 106.814091, -6.140741 ] } },
+{ "type": "Feature", "properties": { "name": "Pasar Petak Sembilan", "desc": "Toko manisan Sinar Pancoran, Jl. Pancoran No.59B, RT.6\/RW.6, Glodok, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11220, Indonesia", "X": null, "Y": null, "Keterangan": "Point of Interest" }, "geometry": { "type": "Point", "coordinates": [ 106.813669, -6.141902 ] } },
+{ "type": "Feature", "properties": { "name": "Kali Besar Kota Tua", "desc": "PT. Pelayaran Bahtera Adhiguna, Jl. Kalibesar Timur No. 10 - 12, RT.3\/RW.6, Pinangsia, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110, Indonesia", "X": null, "Y": null, "Keterangan": "Point of Interest" }, "geometry": { "type": "Point", "coordinates": [ 106.811951, -6.13549 ] } },
+{ "type": "Feature", "properties": { "name": "Parkir Kota Tua", "desc": null, "X": 106.8126697, "Y": -6.1331266, "Keterangan": "Fasilitas Umum" }, "geometry": { "type": "Point", "coordinates": [ 106.8126697, -6.1331266 ] } },
+{ "type": "Feature", "properties": { "name": "Wihara Dharma Bhakti", "desc": null, "X": 106.8125211, "Y": -6.1446992, "Keterangan": "Fasilitas Umum" }, "geometry": { "type": "Point", "coordinates": [ 106.8125211, -6.1446992 ] } },
+{ "type": "Feature", "properties": { "name": "Gereja Santa Maria de Fatima", "desc": null, "X": 106.8118175, "Y": -6.1438016, "Keterangan": "Fasilitas Umum" }, "geometry": { "type": "Point", "coordinates": [ 106.8118175, -6.1438016 ] } },
+{ "type": "Feature", "properties": { "name": "Polisi Pekojan", "desc": null, "X": 106.806633, "Y": -6.1402888, "Keterangan": "Fasilitas Umum" }, "geometry": { "type": "Point", "coordinates": [ 106.806633, -6.1402888 ] } },
+{ "type": "Feature", "properties": { "name": "RSUD Taman Sari", "desc": null, "X": 106.8191645, "Y": -6.1439624, "Keterangan": "Fasilitas Umum" }, "geometry": { "type": "Point", "coordinates": [ 106.8191645, -6.1439624 ] } }
+]
+}
